@@ -12,3 +12,5 @@
 5.https://docs.google.com/document/d/1KCSXYmInnBrOnFw5y3kQdNluLTYKt-jF1psyviNAeag/edit#heading=h.x68pu6i2isb4
 
 6.https://github.com/coallaoh/Principles/tree/main
+
+7.[现代科研指北]https://bookdown.org/yufree/sciguide/
