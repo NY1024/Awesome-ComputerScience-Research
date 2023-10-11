@@ -14,3 +14,5 @@
 6.https://github.com/coallaoh/Principles/tree/main
 
 7.[现代科研指北]https://bookdown.org/yufree/sciguide/
+
+8.https://s2.ist.psu.edu/pliu/
